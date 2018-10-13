@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\StructHomeWork\StructHomeWork\bin\Debug\StructHomeWork.exe.config
+C:\Users\User\source\repos\StructHomeWork\StructHomeWork\bin\Debug\StructHomeWork.exe
+C:\Users\User\source\repos\StructHomeWork\StructHomeWork\bin\Debug\StructHomeWork.pdb
+C:\Users\User\source\repos\StructHomeWork\StructHomeWork\obj\Debug\StructHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\StructHomeWork\StructHomeWork\obj\Debug\StructHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StructHomeWork\StructHomeWork\obj\Debug\StructHomeWork.exe
+C:\Users\User\source\repos\StructHomeWork\StructHomeWork\obj\Debug\StructHomeWork.pdb
